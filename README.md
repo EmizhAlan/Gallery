@@ -1,2 +1,2 @@
 # Gallery
-Just me gallery
+Just my gallery
